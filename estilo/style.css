@@ -108,7 +108,7 @@ main h2 {
     font-weight: normal;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
-    border: 10px 0px 10px 0px;
+    border-radius: 10px 0px 10px 0px;
 }
 
 main p {
